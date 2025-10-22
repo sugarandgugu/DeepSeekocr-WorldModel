@@ -1,2 +1,4 @@
 # deepseek-ocr-series
-收集跟deepseek-ocr相关idea的文章
+1、DeepSeek-OCR: Contexts Optical Compression
+2、Grasp Any Region: Towards Precise, Contextual Pixel Understanding for Multimodal LLMs
+3、Glyph: Scaling Context Windows via Visual-Text Compression
